@@ -1,0 +1,27 @@
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\RitaglioPagine.exe.config
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\RitaglioPagine.exe
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\RitaglioPagine.pdb
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Controls.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Imaging.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Video.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Math.dll
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Controls.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Imaging.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Video.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\bin\Debug\AForge.Math.xml
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.csprojAssemblyReference.cache
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.Form1.resources
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.Properties.Resources.resources
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.csproj.GenerateResource.cache
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.csproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.csproj.CopyComplete
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.exe
+C:\Users\Luca\source\repos\RitaglioPagine\RitaglioPagine\obj\Debug\RitaglioPagine.pdb
